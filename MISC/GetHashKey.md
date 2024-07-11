@@ -1,5 +1,5 @@
 ---
-ns: MISC
+ns: MAT
 ---
 ## GET_HASH_KEY
 
